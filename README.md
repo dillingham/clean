@@ -2,7 +2,7 @@
 
 A simple setup for anyone wanting to setup code standards & testing in new Laravel projects:
 
-```php
+```
 composer require dillingham/new-project
 ```
 
@@ -20,3 +20,4 @@ php artisan new-project:install
 - adds eslint
 - adds prettier
 - adds github action
+- removes dillingham/new-project
