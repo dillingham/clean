@@ -10,6 +10,7 @@ composer require dillingham/new-project
 php artisan new-project:install
 ```
 
+- adds project readme
 - adds ide-helper
 - adds larastan
 - adds php mess detector
@@ -20,4 +21,5 @@ php artisan new-project:install
 - adds eslint
 - adds prettier
 - adds github action
+- adds git pre-commit hooks
 - removes dillingham/new-project
